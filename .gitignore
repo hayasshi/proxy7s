@@ -1,0 +1,13 @@
+*.class
+.idea
+target/
+.bsp
+
+# Metals
+.bloop
+.metals
+metals.sbt
+.vscode
+
+# Intellij IDEA
+.idea
